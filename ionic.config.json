@@ -1,6 +1,6 @@
 {
-  "name": "moodlemobile2",
-  "app_id": "",
+  "name": "EduMENTOR App",
+  "app_id": "com.EduMENTOR.Eduemobile",
   "watchPatterns": [
     "www/**/*.html",
     "www/build/**/*",
