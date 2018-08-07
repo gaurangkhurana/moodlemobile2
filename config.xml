@@ -4,8 +4,8 @@
   <description>
         EduMENTOR official app
     </description>
-  <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+  <author href="http://edumentor.co.in" email="vibhav@edumentor.org">
+        EduMENTOR Team
     </author>
   <content src="index.html"/>
   <access origin="*"/>
